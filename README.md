@@ -1,2 +1,2 @@
 # FlowBase
-Web applicatie voor storing eerder voorkomen problemen en oplossingen.
+Web applicatie voor het bewaren van eerder voorkomen problemen en oplossingen.
